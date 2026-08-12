@@ -1,0 +1,6 @@
+{
+  "name": "Sri Venkateswara Agencies Backend",
+  "description": "Java Spring Boot REST API backend for Sri Venkateswara Agencies wholesale beverage e-commerce app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
